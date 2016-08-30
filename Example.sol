@@ -1,3 +1,4 @@
+```
 contract Bank{
 /*This is the vulnerable contract. This contract contains the basic actions
 necessary to interact with its users such as: get balance, add to balance,
@@ -82,3 +83,4 @@ out n times. For this example, we carried out only 2 times.*/
 
    }/*Triggers the withdrawBalance function in the bank contract*/
 }
+```
